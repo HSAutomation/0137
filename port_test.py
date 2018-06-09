@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+#Version 1.0
+
 import time
 import os
 import sys
